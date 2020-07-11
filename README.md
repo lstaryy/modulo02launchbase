@@ -1,5 +1,6 @@
 <h1 align="center"> :rocket: Módulo 02 LaunchBase </h1>
-<p align="center"> Repositório destinado à pratica do modulo02 do bootcamp. Modelo de portfólio com modal para as vídeo-aulas. </p><br />
+<p align="center"> Repositório destinado à pratica do modulo02 do bootcamp.</p><br />
+<p align="center"> Modelo de portfólio com modal para as vídeo-aulas.</p>
 
 <h2 align="center"> :dart: Objetivo do repositório </h2>
 <li align="center"> Fortalecer fundamentos e conceitos apresentados </li>
